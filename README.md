@@ -1,5 +1,3 @@
-Certainly! Below is a simple Markdown documentation for a JavaScript-based piano app. You can copy and paste this content into a Markdown file (e.g., `piano-app-documentation.md`) and modify it as needed.
-
 ```markdown
 # Piano App Documentation
 
